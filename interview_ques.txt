@@ -1,1 +1,3 @@
 How memory is allocated for integers and strings?
+how github works?
+what is github branch?
